@@ -14,11 +14,7 @@ release = 'v2.1.6'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = [
-    'myst_parser',
-    "sphinxcontrib.mermaid",
-    "sphinx_copybutton",
-]
+extensions = ['recommonmark','sphinx_markdown_tables']
 
 source_suffix = {
     '.rst': 'restructuredtext',
