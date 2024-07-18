@@ -35,7 +35,7 @@ myst_enable_extensions = [
 templates_path = ['_templates']
 exclude_patterns = []
 
-language = 'zh_CN'
+language = 'en'
 
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
