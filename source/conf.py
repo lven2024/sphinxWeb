@@ -35,6 +35,8 @@ myst_enable_extensions = [
 templates_path = ['_templates']
 exclude_patterns = []
 
+language = 'zh_CN'
+
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
     'analytics_anonymize_ip': False,
