@@ -1,17 +1,24 @@
-.. sphinxWeb documentation master file, created by
-   sphinx-quickstart on Thu Jul 18 10:05:01 2024.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. _index:
 
-sphinxWeb documentation
-=======================
+十分钟快速入门
+=================================================
+希望快速开始使用快期3？本页面将介绍如何开始使用快期3
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+安装
+-------------------------------------------------
+你可以在\ `快期官网 <https://www.shinnytech.com/q73/>`_\ 下载快期3通用包安装或者去到开户的期货公司官网下载快期3客户端安装
+
+实盘交易
+-------------------------------------------------
+请在期货公司下拉列表选择开户的期货公司，输入对应正确的账户和密码，并点击【登录】按钮后进入软件
+
+.. image:: images/shipandenglu.png
+   :align: center
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+模拟交易
+-------------------------------------------------
+请在快期模拟软件登录框上点击【注册/找回】，填写以下对应信息之后，点击注册后会收到快期注册短信，用户名即为模拟登录名
 
+.. image:: images/monidenglu.png
+.. image:: images/zhuche.png
